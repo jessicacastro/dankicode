@@ -66,7 +66,7 @@
 			</div><!--w50-->
 
 			<div class="w50">
-				<img src="img/foto.jpg">
+				<img src="img/foto1.jpg">
 			</div>
 		</div><!--center-->
 	</section><!--descricao-autor-->
